@@ -1,4 +1,5 @@
-# ![Логотип Powerlifting](pict/img_1027-2.ipg)
+![image](https://github.com/user-attachments/assets/60b7dabf-46d5-4a0e-be72-0e8e62701674)
+
 
 Сегодня я вам расскажу про такой спорт как Powerliftig
 ## powerlifting - это силовое троеборье
